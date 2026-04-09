@@ -1,0 +1,5 @@
+{
+  "name": "GED Live Tutor",
+  "description": "A real-time AI tutor for GED test preparation with live voice and screen sharing.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"]
+}
